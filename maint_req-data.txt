@@ -1,0 +1,7 @@
+01  1    12 950568765   912345678 11/20/2018  12/20/2018    12/13/2018  plumbing problem    the bathroom sink is leaking 3
+02  2    8 950512655   123456789 11/12/2018  12/10/2018    12/14/2018  plumbing problem    Soooooo some wine is leaking from the sink? Idk but it's kinda awesome. 
+03  1    12 955666534   912345343 11/13/2018  12/30/2018    11/30/2018  furniture problem    A dragon sat on the sofa and broke it. Bad besthda. 24
+04  4    19 950567899   11234123 11/19/2018  12/30/2018    12/01/2018  plumbing problem    Toilet is clogged because my girlfriend shoved all my homework in it after we had a fight.
+05  3    8 950566000   1111111 11/30/2018  12/20/2018    12/13/2018  structural problem    there is a giant hole in the ceiling because the damned avengers came by and thor thought it would be funny.
+06  1    24 950560094   910001678 11/29/2018  12/21/2018    12/15/2018  plumbing problem    the kitchen sink is leaking 1
+07  1    12 950561234   912345673 11/28/2018  12/20/2018    12/13/2018  everything problem    My birthday party got a little out of hand and I kind of broke everything.
